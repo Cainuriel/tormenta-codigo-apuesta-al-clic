@@ -4,6 +4,7 @@
   <title>Apuesta al clic</title>
   <style>
     body {
+      background-color: darkslategrey;
       font-family: Arial, sans-serif;
       text-align: center;
       margin: 20px;
@@ -61,17 +62,17 @@
 
   <!-- Contador de clics -->
   <div class="counter">
-    Clics: <span id="counter">0</span>
+    Clics: <span id="counter"></span>
   </div>
 
   <!-- Botón rojo grande y redondo -->
-  <button class="red-button">Clic</button>
+  <button onclick="clickeando()" id="click" class="red-button">Clic</button>
 
   <hr />
 
   <!-- Botón para hacer la apuesta con emojis -->
-  <button class="bet-button">🎲 Apuesta 🎲</button>
+  <button onclick="comprobar()" id="apuesta" class="bet-button">🎲 Apuesta 🎲</button>
 
-
+ <script src="randomNumber.js"></script>
 </body>
 </html>
