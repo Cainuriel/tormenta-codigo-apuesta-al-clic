@@ -22,7 +22,9 @@ Aparte que hacía mucho tiempo que no trabajaba directamente con persistencia de
 2. Prepara el archivo ``` .env ```
 ### variables globales
 DATABASE_URL= "La ruta con la que te conectarás a la base de datos"
+
 SEED="La semilla de la cuenta principal que paga a todos los ganadores. Preocupate de disponer de suficiente saldo para que no falle ningún pago"
+
 ADDRESS='La dirección pública de la cuenta que recibirá el pago de las apuestas. Si quieres, coloca la anterior para que no tengas que ir recargando la cuenta de pagos'
 
 ## 🤗 Mecenazgo
