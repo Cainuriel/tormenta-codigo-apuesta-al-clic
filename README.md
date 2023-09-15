@@ -1,7 +1,7 @@
 # 🌩️ Tormenta de código: Apuesta al clic, la web que nunca te atreviste a hacer 🎰
 ## 📋 Apuesta al clic con la blockchain Ripple
 
-![Juega aquí](https://juego-del-boton.vercel.app/)
+[Juega aquí](https://juego-del-boton.vercel.app/)
 
 ## Tecnologías conocidas utilizadas:
 
@@ -13,9 +13,9 @@
 
 Aparte que hacía mucho tiempo que no trabajaba directamente con persistencia de datos tradicional y ello ha demostrado mis limitaciones con el framework Sveltekit he utiliado las siguientes tecnologías totalmente nuevas para mi:
 
-1. ![CockroachDB](https://cockroachlabs.cloud/)
-2. ![Lucia Auth](https://lucia-auth.com/)
-3. ![Prisma ORM](https://www.prisma.io/)
+1. [CockroachDB](https://cockroachlabs.cloud/)
+2. [Lucia Auth](https://lucia-auth.com/)
+3. [Prisma ORM](https://www.prisma.io/)
 
 ## Instalación
 1. npm i
