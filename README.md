@@ -25,6 +25,6 @@ Tecnologías conocidas utilizadas:
 
 ## 🤗 Mecenazgo
 
-Este reto se realiza por y para la [Comunidad Malandriner](https://webreactiva.com/comunidad)
+Este reto se ha realizado para la [Comunidad Malandriner](https://webreactiva.com/comunidad)
 
 ❤️
